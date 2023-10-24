@@ -1,1 +1,17 @@
+body{
+   background: #b1e1fd
+}
 
+h1{
+    color: rgb(214, 13, 214);
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+em strong {
+    color: crimson;
+}
